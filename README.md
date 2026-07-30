@@ -62,12 +62,6 @@ NeuroLearn AI equips learners with **5 specialized AI learning tools**:
 
 ---
 
-## 📸 Presentation & Demo
-
-- Open `pitch.html` in your browser to view the interactive presentation deck designed for hackathon judges.
-
----
-
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for details.
